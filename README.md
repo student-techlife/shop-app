@@ -17,6 +17,8 @@ The following packages are used in this project:
 
 - [provider](https://pub.dev/packages/provider)
 - [intl](https://pub.dev/packages/intl)
+- [http](https://pub.dev/packages/http)
+- [flutter_dotenv](https://pub.dev/packages/flutter_dotenv)
 
 ## Getting Started
 
