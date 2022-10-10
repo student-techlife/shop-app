@@ -1,6 +1,7 @@
 # 🛒 Shop App
 
 <p align="middle">
+  <img src="assets/images/auth_screen.jpg" width="30%" style="margin-right: 25px;" />
   <img src="assets/images/shop_screen.jpg" width="30%" style="margin-right: 25px;" />
   <img src="assets/images/cart_screen.jpg" width="30%" />
 </p>
