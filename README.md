@@ -20,6 +20,7 @@ The following packages are used in this project:
 - [intl](https://pub.dev/packages/intl)
 - [http](https://pub.dev/packages/http)
 - [flutter_dotenv](https://pub.dev/packages/flutter_dotenv)
+- [shared_preferences](https://pub.dev/packages/shared_preferences)
 
 ## Getting Started
 
